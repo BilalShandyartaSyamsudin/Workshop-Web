@@ -1,0 +1,84 @@
+#ag {
+  font-family: "Poppins", sans-serif;
+}
+#h1n {
+  font-family: "Poppins", sans-serif;
+}
+#p {
+  color: rgb(255, 102, 0);
+}
+#h5a {
+  font-family: "Varela Round", sans-serif;
+  font-weight: bold;
+}
+.footer {
+  background-color: #f1f1f1;
+  width: 1345px;
+  height: 220px;
+  display: inline-block;
+}
+.footer ul li {
+  display: inline-block;
+  font-family: "Rajdhani", sans-serif;
+}
+.Atas {
+  font-weight: 600;
+}
+.help {
+  margin-right: 250px;
+}
+.bussiness {
+  margin-right: 250px;
+}
+.follow {
+  margin-right: 250px;
+}
+.isiHelp {
+  list-style: none;
+  font-family: "Rajdhani", sans-serif;
+  margin-left: 10px;
+  position: absolute;
+}
+.isiBussiness {
+  list-style: none;
+  font-family: "Rajdhani", sans-serif;
+  position: absolute;
+  left: 330px;
+}
+.followus {
+  display: inline-block;
+  position: absolute;
+  left: 650px;
+  list-style: none;
+}
+.getiton {
+  display: inline-block;
+  position: absolute;
+  width: 170px;
+  height: 56px;
+  left: 966px;
+}
+.hr {
+  position: absolute;
+  width: 1283px;
+  height: 1px;
+  border-right-width: 0px;
+  border-right-style: solid;
+  border-top-width: 0px;
+  border-top-style: solid;
+  border-left-width: 0px;
+  border-left-style: solid;
+  border-bottom-width: 0px;
+  border-bottom-style: solid;
+  color: rgb(128, 128, 128);
+  background-color: rgb(128, 128, 128);
+  top: 2820px;
+  left: 34px;
+}
+.copyright {
+  position: absolute;
+  top: 2850px;
+  left: 490px;
+  font-family: "Courier Prime", monospace;
+  margin-top: 0px;
+}
